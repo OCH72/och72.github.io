@@ -3,4 +3,7 @@ h1 {
     font-size: 100px;
     background-color: blueviolet;
     color: white;
+    text-align: center;
+    margin: 30px auto;
+
 }
