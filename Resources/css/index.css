@@ -1,3 +1,7 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100px;
@@ -22,6 +26,7 @@ h1 {
     height: 100px;
     opacity: 0.8;
     padding: 20px 10px;
+    text-align: center;
 }
 
 .start p {
@@ -31,4 +36,5 @@ h1 {
     background-image: url("/Resources/Media/windmill.jpeg");
     opacity: 1;
     padding: 20px 10px;
+    text-align: left;
 }
