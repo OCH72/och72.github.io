@@ -5,7 +5,7 @@ h1 {
     background-image: url("/Resources/Media/windmill.jpeg");
     color:white;
     text-align: center;
-    margin: 30px auto;
+    margin: 0 auto;
 
 }
 
@@ -19,6 +19,16 @@ h1 {
     font-size: 60px;
     font-weight: bold;
     background-image: url("/Resources/Media/windmill.jpeg");
-    height: 200px;
+    height: 100px;
     opacity: 0.8;
+    padding: 20px 10px;
+}
+
+.start p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    background-image: url("/Resources/Media/windmill.jpeg");
+    opacity: 1;
+    padding: 20px 10px;
 }
