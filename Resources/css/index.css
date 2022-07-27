@@ -13,3 +13,12 @@ h1 {
     height: 600px;
     width: fit-content;
 }
+
+.start h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    background-image: url("/Resources/Media/windmill.jpeg");
+    height: 400px;
+    opacity: 0.5;
+}
